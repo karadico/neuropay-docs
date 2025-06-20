@@ -2,6 +2,10 @@
 
 Comprehensive documentation, architecture, and whitepaper for the NeuroPay ecosystem.
 
+## 📡 Website
+
+Visit: [https://neuropay.tech](https://neuropay.tech)
+
 ## Structure
 - `whitepaper.md`
 - `protocol.md`
